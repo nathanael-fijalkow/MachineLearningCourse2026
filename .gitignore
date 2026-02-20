@@ -1,12 +1,4 @@
-/.DS_Store
+.DS_Store
+*/.DS_Store
 /.venv
-/Cours1
-/Cours2
-/Cours3
-/ML UB MCQ 1.xlsx
-/ML UB MCQ Mock 1.xlsx
-/TP1
-/TP2
-/TP3
-/TP4 - Support Vector Machines.ipynb
-/tp3.ipynb
+Next/
